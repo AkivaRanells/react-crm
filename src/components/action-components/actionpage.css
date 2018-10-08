@@ -1,0 +1,24 @@
+.client-select{
+    margin: 2vh;
+}
+.update-client{
+    margin-left: 4vh;
+}
+.left{
+    display: inline-block;
+    width: 14vw;
+}
+.right{
+    margin-left: 2vw;
+    margin-top: 1.5vw;
+    background-color: #F7CE3E;
+    font-weight: bold;
+    font-size: 2vh;
+}
+.sale{
+    margin-left: 15.5vw;
+    margin-top: 1.5vw;
+    background-color: #F7CE3E;
+    font-weight: bold;
+    font-size: 2vh;
+}

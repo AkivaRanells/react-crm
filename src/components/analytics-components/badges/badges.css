@@ -1,0 +1,12 @@
+.badge{
+    display: inline-block;
+    margin: 2%;
+}
+.head{
+    display: inline-block;
+    vertical-align: top;
+    font-size: 5vh;
+}
+.bottom{
+    font-size: 3vh;
+}

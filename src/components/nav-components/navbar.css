@@ -1,0 +1,13 @@
+.nav-item{
+    margin: 1vw;
+    text-decoration-line: none;
+    background-color: #0a1612;
+    color: #ecf0f1;
+    display: inline-block;
+}
+.navbar{
+    background-color: #0a1612;
+}
+.active{
+    background-color: grey;
+}
